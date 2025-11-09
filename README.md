@@ -1,6 +1,8 @@
 # XIANYU CRAWLER
 
-[xianyu](http://goofish.com) is a greate second-hand trading website. There are a lot of high equality goods. But it also have many liars. So we need to recognize the it carefully.
+[xianyu](http://goofish.com) is a greate second-hand trading platform. There are a lot of highly similar goods, so this tool helps you collect the them.
+
+**But it also has many liars. So you need to identify them carefully.**
 
 ## New Feature
 
@@ -18,20 +20,20 @@ For the linux user, use your package manager (example for archlinux):
     sudo pacman -S tk uv # paru -S tk uv
 ```
 
-For the windows user, download them on official websize: [tk](https://www.tcl-lang.org/software/tcltk/), [uv](https://docs.astral.sh/uv/#highlights)
+For the windows user, download them on official website: [tk](https://www.tcl-lang.org/software/tcltk/), [uv](https://docs.astral.sh/uv/#highlights)
 
 ## Usage
 
 ```
     git clone https://github.com/iexpectation/xianyu-crawler
-    cd xianyu
+    cd xianyu-crawler
 
     uv run xianyu-crawler
 ```
 
 ## Acknowledagement
 
-Thanks for the [蜗牛很牛](https://www.52pojie.cn/thread-2048509-1-1.html) provides the origin source.
+Thanks for [蜗牛很牛](https://www.52pojie.cn/thread-2048509-1-1.html) provides the origin source.
 
 
 ## License
