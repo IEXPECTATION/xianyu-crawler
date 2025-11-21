@@ -33,7 +33,7 @@ For the windows user, download them on official website: [tk](https://www.tcl-la
 
 ## Acknowledagement
 
-Thanks for [蜗牛很牛](https://www.52pojie.cn/thread-2048509-1-1.html) provides the origin source.
+Thank [蜗牛很牛](https://www.52pojie.cn/thread-2048509-1-1.html) to provide the origin source.
 
 
 ## License
